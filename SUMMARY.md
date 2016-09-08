@@ -84,7 +84,7 @@
        * Class Mechanics
        * Class Inheritance
        * Mixins
-   * Chapter 5: Prototypes
+   * [Chapter 5: Prototypes](this & object prototypes/ch5.md)
        * `[[Prototype]]`
        * "Class"
        * "(Prototypal) Inheritance"

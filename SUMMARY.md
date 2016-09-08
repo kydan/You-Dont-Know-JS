@@ -43,7 +43,7 @@
    * [Chapter 2: Lexical Scope](scope & closures/ch2.md)
        * Lex-time
        * Cheating Lexical
-   * Chapter 3: Function vs. Block Scope
+   * [Chapter 3: Function vs. Block Scope](scope & closures/ch3.md)
        * Scope From Functions
        * Hiding In Plain Scope
        * Functions As Scopes

@@ -114,7 +114,7 @@
        * Boxing Wrappers
        * Unboxing
        * Natives as Constructors
-   * [Chapter 4: Coercion](async & performance/ch4.md)
+   * [Chapter 4: Coercion](types & grammar/ch4.md)
        * Converting Values
        * Abstract Value Operations
        * Explicit Coercion

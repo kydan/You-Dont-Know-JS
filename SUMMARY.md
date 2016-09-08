@@ -64,7 +64,7 @@
    * [Appendix D: Acknowledgments](scope & closures/apD.md)
 * [Book Three: this & Object Prototypes](this & object prototypes/README.md)
    * [Foreword](types & grammar/foreword.md)
-   * Preface
+   * [Preface](preface.md)
    * Chapter 1: `this` Or That?
        * Why `this`?
        * Confusions

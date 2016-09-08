@@ -99,7 +99,7 @@
    * [Appendix B: Acknowledgments](this & object prototypes/apB.md)
 * [Book Four: Types & Grammar](types & grammar/README.md)
    * [Foreword](async & performance/foreword.md)
-   * Preface
+   * [Preface](preface.md)
    * Chapter 1: Types
        * A Type By Any Other Name...
        * Built-in Types

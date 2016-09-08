@@ -103,7 +103,7 @@
        * A Type By Any Other Name...
        * Built-in Types
        * Values as Types
-   * Chapter 2: Values
+   * [Chapter 2: Values](async & performance/ch2.md)
        * Arrays
        * Strings
        * Numbers

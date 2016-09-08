@@ -154,7 +154,7 @@
        * Promise Patterns
        * Promise API Recap
        * Promise Limitations
-   * Chapter 4: Generators
+   * [Chapter 4: Generators](async & performance/ch4.md)
        * Breaking Run-to-completion
        * Generator'ing Values
        * Iterating Generators Asynchronously

@@ -174,7 +174,7 @@
        * Writing Good Tests
        * Microperformance
        * Tail Call Optimization (TCO)
-   * Appendix A: *asynquence* Library
+   * [Appendix A: *asynquence* Library](async & performance/apA.md)
    * Appendix B: Advanced Async Patterns
    * Appendix C: Acknowledgments
 * [Book Six: ES6 & Beyond](es6 & beyond/README.md)

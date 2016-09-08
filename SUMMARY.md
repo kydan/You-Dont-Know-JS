@@ -59,8 +59,7 @@
        * Loops + Closure
        * Modules
    * [Appendix A: Dynamic Scope](scope & closures/apA.md)
-   * [Appendix B: Polyfilling Block Scope](scope & closures/apA.md)
-   * Appendix C: Lexical-this
+   * [Appendix C: Lexical-this](scope & closures/apC.md)
    * Appendix D: Acknowledgments
 * [Book Three: this & Object Prototypes](this & object prototypes/README.md)
    * Foreword

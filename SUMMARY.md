@@ -34,7 +34,7 @@
        * ES6 & Beyond
    * [Appendix A: Acknowledgments](up & going/apA.md)
 * [Book Two: Scope & Closures](scope & closures/README.md)
-   * Foreword
+   * [Foreword](scope & closures/foreword.md)
    * Chapter 1: What is Scope?
        * Compiler Theory
        * Understanding Scope

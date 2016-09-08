@@ -26,7 +26,7 @@
        * Prototypes
        * Old & New
        * Non-JavaScript
-   * Chapter 3: Into YDKJS
+   * [Chapter 3: Into YDKJS](up & going/ch3.md)
        * Scope & Closures
        * this & Object Prototypes
        * Types & Grammar

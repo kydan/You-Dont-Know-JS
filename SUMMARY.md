@@ -58,7 +58,7 @@
        * Now I Can See
        * Loops + Closure
        * Modules
-   * Appendix A: Dynamic Scope
+   * [Appendix A: Dynamic Scope](scope & closures/apA.md)
    * Appendix B: Polyfilling Block Scope
    * Appendix C: Lexical-this
    * Appendix D: Acknowledgments

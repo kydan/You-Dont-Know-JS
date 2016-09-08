@@ -3,6 +3,6 @@
 * Book One: Up & Going
 * Book Two: Scope & Closures
 * Book Three: this & Object Prototypes
-* Book Four: 
-* Book Five: 
-* Book Six:
+* Book Four: Types & Grammar
+* Book Five: Async & Performance
+* Book Six: ES6 & Beyond

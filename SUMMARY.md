@@ -64,6 +64,7 @@
    * [Appendix D: Acknowledgments](scope & closures/apD.md)
 * [Book Three: this & Object Prototypes](this & object prototypes/README.md)
    * [Foreword](this & object prototypes/foreword.md)
+   * Preface
    * Chapter 1: `this` Or That?
        * Why `this`?
        * Confusions
@@ -97,7 +98,6 @@
        * Introspection
    * Appendix A: ES6 `class`
    * Appendix B: Acknowledgments
-   * Preface
 * [Book Four: Types & Grammar](types & grammar/README.md)
    * Foreword
    * Preface

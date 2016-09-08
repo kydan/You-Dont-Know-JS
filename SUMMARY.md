@@ -223,7 +223,7 @@
        * `Reflect` API
        * Feature Testing
        * Tail Call Optimization (TCO)
-   * Chapter 8: Beyond ES6
+   * [Chapter 8: Beyond ES6](es6 & beyond/ch8.md)
        * `async function`s
        * `Object.observe(..)`
        * Exponentiation Operator

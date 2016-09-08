@@ -109,7 +109,7 @@
        * Numbers
        * Special Values
        * Value vs Reference
-   * Chapter 3: Natives
+   * [Chapter 3: Natives](async & performance/ch3.md)
        * Internal `[[Class]]`
        * Boxing Wrappers
        * Unboxing

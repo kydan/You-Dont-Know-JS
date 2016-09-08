@@ -181,7 +181,7 @@
    * Appendix A: *asynquence* Library
    * Appendix B: Advanced Async Patterns
    * Appendix C: Acknowledgments
-* Book Six: ES6 & Beyond
+* [Book Six: ES6 & Beyond](es6 & beyond/README.md)
    * Foreword
    * Preface
    * Chapter 1: ES? Now & Future

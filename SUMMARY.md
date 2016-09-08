@@ -33,7 +33,7 @@
        * Async & Performance
        * ES6 & Beyond
    * Appendix A: Acknowledgments
-* Book Two: Scope & Closures
+* [Book Two: Scope & Closures](scope & closures/README.md)
    * Foreword
    * Preface
    * Chapter 1: What is Scope?

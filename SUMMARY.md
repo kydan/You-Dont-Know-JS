@@ -68,7 +68,7 @@
        * Why `this`?
        * Confusions
        * What's `this`?
-   * Chapter 2: `this` All Makes Sense Now!
+   * [Chapter 2: `this` All Makes Sense Now!](this & object prototypes/ch2.md)
        * Call-site
        * Nothing But Rules
        * Everything In Order

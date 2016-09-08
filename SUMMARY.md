@@ -60,7 +60,7 @@
        * Modules
    * [Appendix A: Dynamic Scope](scope & closures/apA.md)
    * [Appendix C: Lexical-this](scope & closures/apC.md)
-   * Appendix D: Acknowledgments
+   * [Appendix D: Acknowledgments](scope & closures/apD.md)
 * [Book Three: this & Object Prototypes](this & object prototypes/README.md)
    * Foreword
    * Preface

@@ -48,7 +48,7 @@
        * Hiding In Plain Scope
        * Functions As Scopes
        * Blocks As Scopes
-   * Chapter 4: Hoisting
+   * [Chapter 4: Hoisting](scope & closures/ch4.md)
        * Chicken Or The Egg?
        * The Compiler Strikes Again
        * Functions First

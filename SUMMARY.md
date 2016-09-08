@@ -230,5 +230,5 @@
        * Object Properties and `...`
        * `Array#includes(..)`
            * SIMD
-   * Appendix A: Acknowledgments
+   * [Appendix A: Acknowledgments](es6 & beyond/apA.md)
 

@@ -200,7 +200,7 @@
        * Generators
        * Modules
        * Classes
-   * Chapter 4: Async Flow Control
+   * [Chapter 4: Async Flow Control](es6 & beyond/ch4.md)
        * Promises
        * Generators + Promises
    * Chapter 5: Collections

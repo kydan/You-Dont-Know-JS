@@ -203,7 +203,7 @@
    * [Chapter 4: Async Flow Control](es6 & beyond/ch4.md)
        * Promises
        * Generators + Promises
-   * Chapter 5: Collections
+   * [Chapter 5: Collections](es6 & beyond/ch5.md)
        * TypedArrays
        * Maps
        * WeakMaps

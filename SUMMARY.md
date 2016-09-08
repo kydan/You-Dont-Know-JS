@@ -163,7 +163,7 @@
        * Generator Concurrency
        * Thunks
        * Pre-ES6 Generators
-   * Chapter 5: Program Performance
+   * [Chapter 5: Program Performance](async & performance/ch5.md)
        * Web Workers
        * SIMD
        * asm.js

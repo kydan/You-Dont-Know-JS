@@ -4,7 +4,7 @@
 * [Book One: Up & Going](up & going/README.md)
    * Foreword
    * Preface
-   * Chapter 1: Into Programming
+   * [Chapter 1: Into Programming](up & going/ch1.md)
        * Code
        * Try It Yourself
        * Operators

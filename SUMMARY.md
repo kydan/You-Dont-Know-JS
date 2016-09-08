@@ -137,6 +137,9 @@
        * `switch`
    * Appendix A: Mixed Environment JavaScript
    * Appendix B: Acknowledgments
+ 
+* Book Five: Aysnc & Performance
+
 * Book Six: ES6 & Beyond
    * Foreword
    * Preface

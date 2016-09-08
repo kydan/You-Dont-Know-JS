@@ -121,7 +121,7 @@
        * Implicit Coercion
        * Loose Equals vs Strict Equals
        * Abstract Relational Comparison
-   * Chapter 5: Grammar
+   * [Chapter 5: Grammar](async & performance/ch5.md)
        * Statements & Expressions
        * Operator Precedence
        * Automatic Semicolons

@@ -65,6 +65,7 @@
   * Appendix D: Acknowledgments
  
 * Book Three: this & Object Prototypes
+  * 
 * Book Four: Types & Grammar
 * Book Five: Async & Performance
 * Book Six: ES6 & Beyond

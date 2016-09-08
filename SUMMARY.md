@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Book One: Up & Going](up & going/README.md)
-   * Foreword
+   * [Foreword](up & going/foreword.md)
    * [Preface](preface.md)
    * [Chapter 1: Into Programming](up & going/ch1.md)
        * Code
@@ -35,7 +35,6 @@
    * [Appendix A: Acknowledgments](up & going/apA.md)
 * [Book Two: Scope & Closures](scope & closures/README.md)
    * Foreword
-   * [Preface](preface.md)
    * Chapter 1: What is Scope?
        * Compiler Theory
        * Understanding Scope

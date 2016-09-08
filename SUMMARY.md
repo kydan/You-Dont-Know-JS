@@ -16,7 +16,7 @@
        * Loops
        * Functions
        * Practice
-   * Chapter 2: Into JavaScript
+   * [Chapter 2: Into JavaScript](up & going/ch2.md)
        * Values & Types
        * Variables
        * Conditionals

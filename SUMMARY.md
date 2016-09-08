@@ -129,7 +129,7 @@
        * Function Arguments
        * `try..finally`
        * `switch`
-   * Appendix A: Mixed Environment JavaScript
+   * [Appendix A: Mixed Environment JavaScript](types & grammar/apA.md)
    * Appendix B: Acknowledgments
 * [Book Five: Aysnc & Performance](async & performance/README.md)
    * Foreword

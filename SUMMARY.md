@@ -195,7 +195,7 @@
        * Number Literal Extensions
        * Unicode
        * Symbols
-   * Chapter 3: Organization
+   * [Chapter 3: Organization](es6 & beyond/ch3.md)
        * Iterators
        * Generators
        * Modules

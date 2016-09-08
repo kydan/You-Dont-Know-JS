@@ -145,7 +145,7 @@
        * Sequential Brain
        * Trust Issues
        * Trying To Save Callbacks
-   * Chapter 3: Promises
+   * [Chapter 3: Promises](async & performance/ch3.md)
        * What is a Promise?
        * Thenable Duck-Typing
        * Promise Trust

@@ -74,7 +74,7 @@
        * Everything In Order
        * Binding Exceptions
        * Lexical `this`
-   * Chapter 3: Objects
+   * [Chapter 3: Objects](this & object prototypes/ch3.md)
        * Syntax
        * Type
        * Contents

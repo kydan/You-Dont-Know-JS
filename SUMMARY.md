@@ -95,7 +95,7 @@
        * Simpler Design
        * Nicer Syntax
        * Introspection
-   * Appendix A: ES6 `class`
+   * [Appendix A: ES6 `class`](this & object prototypes/apA.md)
    * Appendix B: Acknowledgments
 * [Book Four: Types & Grammar](types & grammar/README.md)
    * Foreword

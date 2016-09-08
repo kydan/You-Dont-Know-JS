@@ -96,7 +96,7 @@
        * Nicer Syntax
        * Introspection
    * [Appendix A: ES6 `class`](this & object prototypes/apA.md)
-   * Appendix B: Acknowledgments
+   * [Appendix B: Acknowledgments](this & object prototypes/apB.md)
 * [Book Four: Types & Grammar](types & grammar/README.md)
    * Foreword
    * Preface

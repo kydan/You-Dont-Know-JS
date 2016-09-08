@@ -182,7 +182,7 @@
    * [Chapter 1: ES? Now & Future](es6 & beyond/ch1.md)
        * Versioning
        * Transpiling
-   * Chapter 2: Syntax
+   * [Chapter 2: Syntax](es6 & beyond/ch2.md)
        * Block-Scoped Declarations
        * Spread / Rest
        * Default Parameter Values

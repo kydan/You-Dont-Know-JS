@@ -132,7 +132,7 @@
    * [Appendix A: Mixed Environment JavaScript](types & grammar/apA.md)
    * [Appendix B: Acknowledgments](types & grammar/apB.md)
 * [Book Five: Aysnc & Performance](async & performance/README.md)
-   * Foreword
+   * [Foreword](async & performance/foreword.md)
    * Preface
    * Chapter 1: Asynchrony: Now & Later
        * A Program In Chunks

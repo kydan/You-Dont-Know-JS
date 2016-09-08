@@ -52,7 +52,7 @@
        * Chicken Or The Egg?
        * The Compiler Strikes Again
        * Functions First
-   * Chapter 5: Scope Closures
+   * [Chapter 5: Scope Closures](scope & closures/ch5.md)
        * Enlightenment
        * Nitty Gritty
        * Now I Can See

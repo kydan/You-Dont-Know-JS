@@ -134,7 +134,7 @@
        * `switch`
    * Appendix A: Mixed Environment JavaScript
    * Appendix B: Acknowledgments
-* Book Five: Async & Performance
+* [Book Five: Async & Performance](types & grammar/README.md)
    * Foreword
    * Preface
    * Chapter 1: Asynchrony: Now & Later

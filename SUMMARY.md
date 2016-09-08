@@ -99,7 +99,7 @@
        * Introspection
    * Appendix A: ES6 `class`
    * Appendix B: Acknowledgments
-* Book Four: Types & Grammar
+* [Book Four: Types & Grammar](types & grammar/README.md)
    * Foreword
    * Preface
    * Chapter 1: Types

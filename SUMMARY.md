@@ -209,7 +209,7 @@
        * WeakMaps
        * Sets
        * WeakSets
-   * Chapter 6: API Additions
+   * [Chapter 6: API Additions](es6 & beyond/ch6.md)
        * `Array`
        * `Object`
        * `Math`

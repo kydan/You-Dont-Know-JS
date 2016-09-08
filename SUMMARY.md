@@ -140,7 +140,7 @@
        * Concurrency
        * Jobs
        * Statement Ordering
-   * Chapter 2: Callbacks
+   * [Chapter 2: Callbacks](async & performance/ch2.md)
        * Continuations
        * Sequential Brain
        * Trust Issues

@@ -63,7 +63,7 @@
    * Appendix B: Polyfilling Block Scope
    * Appendix C: Lexical-this
    * Appendix D: Acknowledgments
-* Book Three: this & Object Prototypes
+* [Book Three: this & Object Prototypes](this & object prototypes/README.md)
    * Foreword
    * Preface
    * Chapter 1: `this` Or That?

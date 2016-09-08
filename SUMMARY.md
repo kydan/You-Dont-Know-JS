@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Book One: Up & Going](up & going/README.md)
    * Foreword
-   * Preface
+   * [Preface](preface.md)
    * [Chapter 1: Into Programming](up & going/ch1.md)
        * Code
        * Try It Yourself

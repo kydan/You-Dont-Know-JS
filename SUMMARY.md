@@ -167,7 +167,7 @@
        * Web Workers
        * SIMD
        * asm.js
-   * Chapter 6: Benchmarking & Tuning
+   * [Chapter 6: Benchmarking & Tuning](async & performance/ch6.md)
        * Benchmarking
        * Context Is King
        * jsPerf.com

@@ -64,6 +64,7 @@
    * Appendix B: Polyfilling Block Scope
    * Appendix C: Lexical-this
    * Appendix D: Acknowledgments
+ 
 * [Book Three: this & Object Prototypes](this & object prototypes/README.md)
    * Foreword
    * Preface
@@ -100,6 +101,7 @@
        * Introspection
    * Appendix A: ES6 `class`
    * Appendix B: Acknowledgments
+  
 * [Book Four: Types & Grammar](types & grammar/README.md)
    * Foreword
    * Preface

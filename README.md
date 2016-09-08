@@ -2,12 +2,12 @@
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920026327.do"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033738.do"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033745.do"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033752.do"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033769.do"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up & going/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920026327.do"><img src="scope & closures/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033738.do"><img src="this & object prototypes/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033745.do"><img src="types & grammar/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033752.do"><img src="async & performance/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033769.do"><img src="es6 & beyond/cover.jpg" width="75"></a>
 
 Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
 

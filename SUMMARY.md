@@ -178,7 +178,7 @@
    * [Appendix B: Advanced Async Patterns](async & performance/apB.md)
    * [Appendix C: Acknowledgments](async & performance/apC.md)
 * [Book Six: ES6 & Beyond](es6 & beyond/README.md)
-   * Foreword
+   * [Foreword](es6 & beyond/foreword.md)
    * Preface
    * Chapter 1: ES? Now & Future
        * Versioning

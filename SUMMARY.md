@@ -35,7 +35,7 @@
    * [Appendix A: Acknowledgments](up & going/apA.md)
 * [Book Two: Scope & Closures](scope & closures/README.md)
    * [Foreword](scope & closures/foreword.md)
-   * Chapter 1: What is Scope?
+   * [Chapter 1: What is Scope?](scope & closures/ch1.md)
        * Compiler Theory
        * Understanding Scope
        * Nested Scope

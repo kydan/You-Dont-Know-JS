@@ -179,8 +179,7 @@
    * [Appendix C: Acknowledgments](async & performance/apC.md)
 * [Book Six: ES6 & Beyond](es6 & beyond/README.md)
    * [Foreword](es6 & beyond/foreword.md)
-   * [Preface](preface.md)
-   * Chapter 1: ES? Now & Future
+   * [Chapter 1: ES? Now & Future](es6 & beyond/ch1.md)
        * Versioning
        * Transpiling
    * Chapter 2: Syntax

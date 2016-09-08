@@ -130,7 +130,7 @@
        * `try..finally`
        * `switch`
    * [Appendix A: Mixed Environment JavaScript](types & grammar/apA.md)
-   * Appendix B: Acknowledgments
+   * [Appendix B: Acknowledgments](types & grammar/apB.md)
 * [Book Five: Aysnc & Performance](async & performance/README.md)
    * Foreword
    * Preface

@@ -98,7 +98,7 @@
    * [Appendix A: ES6 `class`](this & object prototypes/apA.md)
    * [Appendix B: Acknowledgments](this & object prototypes/apB.md)
 * [Book Four: Types & Grammar](types & grammar/README.md)
-   * [Foreword](async & performance/foreword.md)
+   * [Foreword](types & grammar/foreword.md)
    * [Chapter 1: Types](async & performance/ch1.md)
        * A Type By Any Other Name...
        * Built-in Types

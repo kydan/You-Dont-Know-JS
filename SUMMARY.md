@@ -176,7 +176,7 @@
        * Tail Call Optimization (TCO)
    * [Appendix A: *asynquence* Library](async & performance/apA.md)
    * [Appendix B: Advanced Async Patterns](async & performance/apB.md)
-   * Appendix C: Acknowledgments
+   * [Appendix C: Acknowledgments](async & performance/apC.md)
 * [Book Six: ES6 & Beyond](es6 & beyond/README.md)
    * Foreword
    * Preface

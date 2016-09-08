@@ -134,6 +134,7 @@
        * `switch`
    * Appendix A: Mixed Environment JavaScript
    * Appendix B: Acknowledgments
+* Book Five: Async & Performance
 * Book Six: ES6 & Beyond
    * Foreword
    * Preface
@@ -189,5 +190,4 @@
        * `Array#includes(..)`
            * SIMD
    * Appendix A: Acknowledgments
-* Book Five: Async & Performance
 

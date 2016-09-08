@@ -89,7 +89,7 @@
        * "Class"
        * "(Prototypal) Inheritance"
        * Object Links
-   * Chapter 6: Behavior Delegation
+   * [Chapter 6: Behavior Delegation](this & object prototypes/ch6.md)
        * Towards Delegation-Oriented Design
        * Classes vs. Objects
        * Simpler Design

@@ -215,7 +215,7 @@
        * `Math`
        * `Number`
        * `String`
-   * Chapter 7: Meta Programming
+   * [Chapter 7: Meta Programming](es6 & beyond/ch7.md)
        * Function Names
        * Meta Properties
        * Well Known Symbols

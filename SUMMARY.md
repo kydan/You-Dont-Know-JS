@@ -133,7 +133,7 @@
    * [Appendix B: Acknowledgments](types & grammar/apB.md)
 * [Book Five: Aysnc & Performance](async & performance/README.md)
    * [Foreword](async & performance/foreword.md)
-   * Preface
+   * [Preface](preface.md)
    * Chapter 1: Asynchrony: Now & Later
        * A Program In Chunks
        * Event Loop

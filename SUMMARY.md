@@ -32,7 +32,7 @@
        * Types & Grammar
        * Async & Performance
        * ES6 & Beyond
-   * Appendix A: Acknowledgments
+   * [Appendix A: Acknowledgments](up & going/apA.md)
 * [Book Two: Scope & Closures](scope & closures/README.md)
    * Foreword
    * Preface

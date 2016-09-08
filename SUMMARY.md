@@ -79,7 +79,7 @@
        * Type
        * Contents
        * Iteration
-   * Chapter 4: Mixing (Up) "Class" Objects
+   * [Chapter 4: Mixing (Up) "Class" Objects](this & object prototypes/ch4.md)
        * Class Theory
        * Class Mechanics
        * Class Inheritance

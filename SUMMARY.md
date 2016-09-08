@@ -40,7 +40,7 @@
        * Understanding Scope
        * Nested Scope
        * Errors
-   * Chapter 2: Lexical Scope
+   * [Chapter 2: Lexical Scope](scope & closures/ch2.md)
        * Lex-time
        * Cheating Lexical
    * Chapter 3: Function vs. Block Scope

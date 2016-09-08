@@ -239,4 +239,4 @@
       * Object Properties and `...`
       * `Array#includes(..)`
 	* SIMD
-* Appendix A: Acknowledgments
+  * Appendix A: Acknowledgments
